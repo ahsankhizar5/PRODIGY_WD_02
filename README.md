@@ -18,8 +18,7 @@ A minimal, browser-based stopwatch manager. Create, view, and remove **multiple 
 1. **Clone the repo**
 
    ```bash
-   git clone <your-repo-url>
-   cd <your-project-folder>
+   git clone <[your-repo-url](https://github.com/ahsankhizar5/PRODIGY_WD_02.git)>
    ```
 
 2. **Ensure required libraries are included**
